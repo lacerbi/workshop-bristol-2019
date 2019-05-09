@@ -1,6 +1,6 @@
 # Introduction to modeling and model fitting in psychophysics and neuroscience (2019)
 
-This repository contains materials for an introductory workshop to modeling and model fitting in psychophysics and neuroscience, part of which I presented at the Bristol Neuroscience group in May 2019 ([event link](http://www.bristol.ac.uk/neuroscience/events/diary/2019/ndforum-8may.html)).
+This repository contains materials for an introductory workshop to modeling and model fitting in psychophysics and neuroscience, part of which I presented at the Bristol Neuroscience group in May 2019 ([event link](http://www.bristol.ac.uk/neuroscience/events/diary/2019/ndforum-8may.html)). I gave slightly different versions of this tutorial at several other institutions and summer schools, so the material might look familiar if you attended one of my previous events (see [here](http://luigiacerbi.com/tutorials/)).
 
 The main file for the tutorial is the script [ModelingTutorial.m](https://github.com/lacerbi/workshop-bristol-2019/blob/master/ModelingTutorial.m).
 
