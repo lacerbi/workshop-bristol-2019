@@ -10,6 +10,10 @@ To run some of the model-fitting algorithms in the tutorial you need to download
 
 For more info about my work in computational neuroscience and machine learning, follow me on Twitter: https://twitter.com/AcerbiLuigi
 
+**Example: Optimization of Rosenbrock's function with BADS** ![Example: Optimization of Rosenbrock's function with BADS](https://github.com/lacerbi/workshop-bristol-2019/blob/master/docs/bads-optimviz.gif "Example: Optimization of Rosenbrock's function with BADS")
+
+For more visualizations of optimization algorithms at work, see [here](https://github.com/lacerbi/optimviz).
+
 
 ## License
 
